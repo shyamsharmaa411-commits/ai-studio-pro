@@ -1,0 +1,6 @@
+{
+  "name": "AI PPT Studio Pro",
+  "description": "Universal Scanner and AI Presentation Editor for MCQs, PDFs, and Images",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
